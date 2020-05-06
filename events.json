@@ -1,0 +1,92 @@
+{
+	"events": [
+		{
+			"name": "Event1",
+			"type": "treaty",
+			"year": 2003,
+			"subevents": [
+				{
+					"name": "Sub1",
+					"year": 2014
+				},
+				{
+					"name": "Sub2",
+					"type": "treaty",
+					"year": 2019
+				}
+			]
+		},
+		{
+			"name": "Event2",
+			"year": 2018,
+			"type": "conflict",
+			"subevents": [
+				{
+					"name": "Sub3",
+					"type": "vote",
+					"year": 2020
+				}
+			]
+		},
+		{
+			"name": "Event3",
+			"type": "conflict",
+			"year": 2011
+		},
+		{
+			"name": "Congress of Vienna",
+			"type": "treaty",
+			"year": 1814
+		},
+		{
+			"name": "World War I",
+			"year": 1914,
+			"type": "conflict",
+			"subevents": [
+				{
+					"name": "Battle of Verdun",
+					"year": 1915
+				},
+				{
+					"name": "Archduke assassination",
+					"year": 1914
+				},
+				{
+					"name": "Armistice of Compiegne",
+					"type": "treaty",
+					"year": 1918
+				}
+			]
+		},
+		{
+			"name": "Partitioning of India",
+			"year": 1947,
+			"type": "treaty"
+		},
+		{
+			"name": "Dissolution of the Kingdom of Italy",
+			"year": 1946,
+			"subevents": [
+				{
+					"name": "Institutional Referendum of Italy",
+					"type": "vote",
+					"year": 1946
+				}
+			]
+		},
+		{
+			"name": "The Great Famine",
+			"year": 1845,
+			"type": "calamity"
+		},
+		{
+			"name": "Great Fire of London",
+			"year": 1666,
+			"type": "calamity"
+		},
+		{
+			"name": "First flight of the Concorde",
+			"year": 1969
+		}
+	]
+}
